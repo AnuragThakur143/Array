@@ -1,5 +1,5 @@
 # Array(DSA)
 
-<p style="font-size:5px"><b>DSA Topic- Array</b></p>
+<p style="font-size:5"><b>DSA Topic- Array</b></p>
 <br>
 C++ Language...
